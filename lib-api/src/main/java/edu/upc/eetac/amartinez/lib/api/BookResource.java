@@ -28,9 +28,9 @@ import javax.ws.rs.core.Request;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.SecurityContext;
 
-import edu.upc.eetad.dsa.ajarac.libreria.api.model.Author;
-import edu.upc.eetad.dsa.ajarac.libreria.api.model.Book;
-import edu.upc.eetad.dsa.ajarac.libreria.api.model.BookCollection;
+import edu.upc.eetac.amartinez.lib.api.modelo.Author;
+import edu.upc.eetac.amartinez.lib.api.modelo.Book;
+import edu.upc.eetac.amartinez.libreria.api.model.BookCollection;
 
 @Path("/books")
 public class BookResource {

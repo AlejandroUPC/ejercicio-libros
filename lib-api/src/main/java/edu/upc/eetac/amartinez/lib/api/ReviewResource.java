@@ -25,8 +25,8 @@ import javax.ws.rs.core.Context;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.SecurityContext;
 
-import edu.upc.eetad.dsa.ajarac.libreria.api.model.Review;
-import edu.upc.eetad.dsa.ajarac.libreria.api.model.ReviewCollection;
+import edu.upc.eetac.amartinez.lib.api.modelo.Review;
+import edu.upc.eetac.amartinez.lib.api.modelo.ReviewCollection;
 
 @Path("/books/reviews")
 public class ReviewResource {

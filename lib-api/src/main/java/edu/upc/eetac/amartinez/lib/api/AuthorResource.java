@@ -21,7 +21,7 @@ import javax.ws.rs.core.Context;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.SecurityContext;
 
-import edu.upc.eetad.dsa.ajarac.libreria.api.model.Author;
+import edu.upc.eetac.amartinez.lib.api.modelo.Author;
 
 @Path("/authors")
 public class AuthorResource {
